@@ -183,5 +183,4 @@ Thank you for playing.
 
 ## License
 
-Omega Formation is © 2026 Omega Formation. The soundtrack is credited to CelticRiff. The bundled fonts retain their own licenses (see `fonts/LICENSE.txt`). No other license is included; please contact the developer before redistributing or reusing the game's assets.
-
+Omega Formation is © 2026 Omega Formation. The soundtrack is credited to CelticRiff.
